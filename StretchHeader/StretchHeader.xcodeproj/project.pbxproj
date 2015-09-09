@@ -17,6 +17,7 @@
 		71F4FDD71B9FD4B8002277F2 /* HFStretchableTableHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 71F4FDD61B9FD4B8002277F2 /* HFStretchableTableHeaderView.m */; };
 		71F4FDDA1B9FD4BE002277F2 /* avater@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 71F4FDD81B9FD4BE002277F2 /* avater@2x.png */; };
 		71F4FDDB1B9FD4BE002277F2 /* photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71F4FDD91B9FD4BE002277F2 /* photo.jpg */; };
+		71F4FDDD1B9FE71E002277F2 /* head.gif in Resources */ = {isa = PBXBuildFile; fileRef = 71F4FDDC1B9FE71E002277F2 /* head.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		71F4FDD61B9FD4B8002277F2 /* HFStretchableTableHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HFStretchableTableHeaderView.m; sourceTree = "<group>"; };
 		71F4FDD81B9FD4BE002277F2 /* avater@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "avater@2x.png"; sourceTree = "<group>"; };
 		71F4FDD91B9FD4BE002277F2 /* photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo.jpg; sourceTree = "<group>"; };
+		71F4FDDC1B9FE71E002277F2 /* head.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = head.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 		71F4FDA11B9FD037002277F2 = {
 			isa = PBXGroup;
 			children = (
+				71F4FDDC1B9FE71E002277F2 /* head.gif */,
 				71F4FDAC1B9FD037002277F2 /* StretchHeader */,
 				71F4FDC61B9FD037002277F2 /* StretchHeaderTests */,
 				71F4FDAB1B9FD037002277F2 /* Products */,
@@ -230,6 +233,7 @@
 				71F4FDDA1B9FD4BE002277F2 /* avater@2x.png in Resources */,
 				71F4FDDB1B9FD4BE002277F2 /* photo.jpg in Resources */,
 				71F4FDBE1B9FD037002277F2 /* LaunchScreen.xib in Resources */,
+				71F4FDDD1B9FE71E002277F2 /* head.gif in Resources */,
 				71F4FDBB1B9FD037002277F2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
