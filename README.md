@@ -18,3 +18,5 @@ this is a stretchable view in tableviewHeader,enlarge the view
 - (void)viewDidLayoutSubviews
 
 如果你觉得有更好的，可以试着再改一下哦～
+
+![](https://github.com/ljhang/StretchHeader/raw/master/head.gif) 
