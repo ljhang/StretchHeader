@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E4744F8-0DE4-4884-8020-55FDD387B73C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D1372BA784C930F1C292105DBB44512C0FB8B144</key>
+		<string>https://github.com/ljhang/StretchHeader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StretchHeader/StretchHeader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D1372BA784C930F1C292105DBB44512C0FB8B144</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ljhang/StretchHeader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D1372BA784C930F1C292105DBB44512C0FB8B144</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D1372BA784C930F1C292105DBB44512C0FB8B144</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StretchHeader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
